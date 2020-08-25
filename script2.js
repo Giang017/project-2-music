@@ -152,12 +152,7 @@ listMusic =[
     url: '',
     cover: ''
 },
-{
-    name: '',
-    artist: '',
-    url: '',
-    cover: ''
-},
+
 ]
 
 
